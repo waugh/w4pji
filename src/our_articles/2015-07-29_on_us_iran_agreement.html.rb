@@ -54,23 +54,31 @@ them to use such pretexts for more serious threats and
 possibly actual military attack.
 !
 
-  p <<-'!'
-This agreement began covertly in March of 2013
-with Nicholas Burns, former Undersecretary of
-State for Political Affairs, acting as the undercover
-negotiator, with the Party of Moderation and Development (
-https://en.wikipedia.org/wiki/Moderation_and_Development_Party
-), whose leader, Rouhani, was expected to be the
-incoming president. Consequently upon the beginning of
-his presidency, his government, unilaterally suspended
-uranium enrichment, as the Khatami government had done
-for two years.  In addition, Rouhani's government began
-implementing many neoliberal policies by reducing or
-eliminating many welfare programs, such as bread subsidies,
-to the lower-income families, and reducing free services,
-such as daycare centers for children with disabilities
-such as Down syndrome.
+  p do
+    text <<'!'
+      This agreement began covertly in March of 2013
+      with Nicholas Burns, former Undersecretary of
+      State for Political Affairs, acting as the undercover
+      negotiator, with the
 !
+    url = 'https://en.wikipedia.org/wiki/Moderation_and_Development_Party'
+    a "Party of Moderation and Development", :href => url
+    text "("
+    span h(url), :style => "color: grey;"
+    text " ),"
+    text <<'!'
+      whose leader, Rouhani, was expected to be the
+      incoming president. Consequently upon the beginning of
+      his presidency, his government, unilaterally suspended
+      uranium enrichment, as the Khatami government had done
+      for two years.  In addition, Rouhani's government began
+      implementing many neoliberal policies by reducing or
+      eliminating many welfare programs, such as bread subsidies,
+      to the lower-income families, and reducing free services,
+      such as daycare centers for children with disabilities
+      such as Down syndrome.
+!
+  end
 
   p <<-'!'
     Rouhani represents the pro-global-capital, neoliberal
