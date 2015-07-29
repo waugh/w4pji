@@ -239,7 +239,7 @@ p, li {
   border-bottom: 4px solid #{internal_boundary_color};
 }
 .article p {
-  text-align: justify;
+  text-align: left;
   padding-left:  .5em;
   padding-right: .6em;
 }
