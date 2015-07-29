@@ -232,7 +232,8 @@ extended opportunities, excuses and pretexts for the US
 to attack Iran militarily  without resort to any new UN
 resolutions where the US might face opposition by Russia
 and China. Now, Iran has agreed to be directly responsible
-to the US under the draconian measures of this agreement.!
+to the US under the draconian measures of this agreement.
+!
 
   p <<-'!'
 What is the basis of US hostility to Iran? It stems from
@@ -270,7 +271,8 @@ possible outcomes for the Iranian people?
 intervention by the US for the reasons explained
 above. This is coupled with increased vulnerability of
 Iran’s defense due to the comprise of its military
-secrets via IAEA inspections.!
+secrets via IAEA inspections.
+!
 
   p <<-'!'
 This increase in the probability of war is against the
