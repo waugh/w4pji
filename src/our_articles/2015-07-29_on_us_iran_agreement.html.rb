@@ -33,7 +33,8 @@ any of the many intricate requirements.
   p <<-'!'
 The requirements detailed in this agreement go way above
 and beyond the regular and additional protocols of the
-IAEA, taking away Iran's international rights afforded
+International Atomic Energy Agency (IAEA),
+taking away Iran's international rights afforded
 to all NPT signatory countries.  In addition, Iran
 has agreed to the inspection of any site including its
 military sites. Since the agreement contains no sunset,
@@ -125,7 +126,8 @@ in 2002 that the Iranian government decided to restart
 that program according to NPT regulations. However, the US
 said that Iran was cheating, and their first source of the
 information of this alleged cheating was reported to be the
-MKO. Somehow, the IAEA had not found any problem, but an
+Mojahedin Khalgh Organization of Iran (MKO).
+Somehow, the IAEA had not found any problem, but an
 exiled organization living in an enclosed camp in Iraq was
 successful in discovering problems with Iran’s nuclear
 program. This lie was accepted in the west even after the
@@ -270,7 +272,7 @@ possible outcomes for the Iranian people?
 1- Increased probability of various degrees of military
 intervention by the US for the reasons explained
 above. This is coupled with increased vulnerability of
-Iran’s defense due to the comprise of its military
+Iran’s defense due to the compromise of its military
 secrets via IAEA inspections.
 !
 
@@ -304,7 +306,10 @@ anti-Imperialist forces in Iran lose power.
 
   p <<-'!'
 4- Weakening of Iran’s trade and political alliances
-with the ALBA countries, Russia, and other non-aligned
+with the ALBA countries
+(Bolivarian Alliance for Latin America, including Venezuela, Cuba, Bolivia,
+Nicaragua and other Latin and Caribbean countries),
+Russia, and other non-aligned
 countries in the world. This outcome will become more
 probable as Iran expands its relations with the West.
 !
