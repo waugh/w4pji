@@ -4,7 +4,7 @@ article \
   "On the US-Iran Agreement of 2015-07",
   :depth => 1  do
 
-  p "July 29, 2015"
+  p "July 29, 2015 (Corrected July 31, 2015)"
 
   p do
     tag :span, "The", :class => "first_word"
