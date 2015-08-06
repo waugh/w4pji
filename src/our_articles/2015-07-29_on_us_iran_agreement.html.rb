@@ -4,7 +4,7 @@ article \
   "On the US-Iran Agreement of 2015-07",
   :depth => 1  do
 
-  p "July 29, 2015 (Corrected July 31, 2015)"
+  p "July 29, 2015 (Revised August 5, 2015)"
 
   p do
     tag :span, "The", :class => "first_word"
@@ -20,10 +20,8 @@ restrictions on Iran’s independence and territorial
 integrity. The only apparent advantage to Iran from
 the agreement would be the lifting of the sanctions;
 however, such lifting only figures in the agreement as
-a promise to be implemented in the future.  While the
-process of lifting of sanctions by the Europeans is in
-the agreement, the lifting of the US embargo is not even
-addressed. Moreover, according to the US administration,
+a promise to be implemented in the future.
+Moreover, according to the US administration,
 removal of any sanctions is accompanied by a provision
 that will allow the sanctions to snap back into place as
 soon as a problem is perceived with Iran's compliance with
