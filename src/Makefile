@@ -2,7 +2,7 @@
 
 RUBYOPT = -I.
 
-tgts: ../public ../public/img ../public/our_articles ../public/others_articles  ../public/style.css ../public/index.html ../public/index_of_old_items.html ../public/index_of_group1.html ../public/img/nowaroniranFeb4.jpg ../public/img/si_logo.jpg ../public/img/simin_0322_cropped.jpg ../public/img/2009_simin_interview.jpg ../public/img/happy_human.gif ../public/img/bahraini_girl.jpg ../public/img/mostafa_ahmadi-roshan.jpg ../public/img/iran.jpg ../public/img/pareesa_2003.jpg ../public/img/yankee_leave_mars.jpg ../public/img/pareesa_cropped.jpg ../public/our_articles/simin.html ../public/our_articles/2011-11-22_09_iran_and_threat_of_us_imperialism.html ../public/our_articles/2006-03-03_india.html ../public/our_articles/2012-01-13_solidarity_with_iran_ii.html ../public/our_articles/2005_war_women.html ../public/our_articles/2011-11-21_solidarity_petition.html ../public/our_articles/2006-mothers-day.html ../public/our_articles/2009-10-04_simin_video.html ../public/our_articles/2009_coverage.html ../public/our_articles/2015-07-29_on_us_iran_agreement.html ../public/our_articles/2009-07-18_on_iranian-americans_protesting.html ../public/our_articles/women_in_movements.html ../public/our_articles/solidarity_africa.html ../public/others_articles/2009-07_gowans.html ../public/others_articles/2009-07-21_bakhtiar.html ../public/others_articles/2011-11-15_fidel_genocidal-cynicism-part-two-and-end.html ../public/others_articles/2012-04-23_ohio_labor.html ../public/others_articles/2012-02-04_manifestations.html ../public/others_articles/2011-11-17_si_nicaragua.html ../public/others_articles/2011-11-16_hola_solidarity_appeal.html ../public/others_articles/2011-11-15_si_solidarity_tour_cuba.html ../public/others_articles/2011-11-17_phil_ltr.html ../public/others_articles/2009-07-18_ardeshir_ufpj.html ../public/others_articles/2009-09-29_paul.html ../public/mission.htm ../public/activities.html ../public/log.html
+tgts: ../public ../public/img ../public/our_articles ../public/others_articles  ../public/style.css ../public/index.html ../public/index_of_old_items.html ../public/index_of_group1.html ../public/img/bahraini_girl.jpg ../public/img/simin_0322_cropped.jpg ../public/img/si_logo.jpg ../public/img/happy_human.gif ../public/img/mostafa_ahmadi-roshan.jpg ../public/img/iran.jpg ../public/img/nowaroniranFeb4.jpg ../public/img/2009_simin_interview.jpg ../public/img/pareesa_2003.jpg ../public/img/pareesa_cropped.jpg ../public/img/yankee_leave_mars.jpg ../public/our_articles/2011-11-21_solidarity_petition.html ../public/our_articles/2005_war_women.html ../public/our_articles/2011-11-22_09_iran_and_threat_of_us_imperialism.html ../public/our_articles/2009-10-04_simin_video.html ../public/our_articles/solidarity_africa.html ../public/our_articles/women_in_movements.html ../public/our_articles/2012-01-13_solidarity_with_iran_ii.html ../public/our_articles/2006-03-03_india.html ../public/our_articles/2009_coverage.html ../public/our_articles/2015-07-29_on_us_iran_agreement.html ../public/our_articles/2006-mothers-day.html ../public/our_articles/2009-07-18_on_iranian-americans_protesting.html ../public/our_articles/2015-12-06_effect_of_sanctions.html ../public/our_articles/simin.html ../public/others_articles/2011-11-15_fidel_genocidal-cynicism-part-two-and-end.html ../public/others_articles/2011-11-15_si_solidarity_tour_cuba.html ../public/others_articles/2011-11-17_si_nicaragua.html ../public/others_articles/2012-04-23_ohio_labor.html ../public/others_articles/2009-09-29_paul.html ../public/others_articles/2009-07_gowans.html ../public/others_articles/2011-11-17_phil_ltr.html ../public/others_articles/2011-11-16_hola_solidarity_appeal.html ../public/others_articles/2012-02-04_manifestations.html ../public/others_articles/2009-07-21_bakhtiar.html ../public/others_articles/2009-07-18_ardeshir_ufpj.html ../public/mission.htm ../public/activities.html ../public/log.html
 	ruby $(RUBYOPT) tell_photo_width.rb
 
 list: . left right our_articles others_articles older_headers
@@ -62,36 +62,36 @@ group1_links: group1_list
 	  ln group1/$$fn ../public/group1/$$fn; \
 	done <$?
 
-../public/our_articles/simin.html: our_articles/simin.html.rb common.rb env.rb
-	ruby $(RUBYOPT) our_articles/simin.html.rb >$@.t
-	mv $@.t $@
-
-../public/our_articles/2011-11-22_09_iran_and_threat_of_us_imperialism.html: our_articles/2011-11-22_09_iran_and_threat_of_us_imperialism.html.rb common.rb env.rb
-	ruby $(RUBYOPT) our_articles/2011-11-22_09_iran_and_threat_of_us_imperialism.html.rb >$@.t
-	mv $@.t $@
-
-../public/our_articles/2006-03-03_india.html: our_articles/2006-03-03_india.html.rb common.rb env.rb
-	ruby $(RUBYOPT) our_articles/2006-03-03_india.html.rb >$@.t
-	mv $@.t $@
-
-../public/our_articles/2012-01-13_solidarity_with_iran_ii.html: our_articles/2012-01-13_solidarity_with_iran_ii.html.rb common.rb env.rb
-	ruby $(RUBYOPT) our_articles/2012-01-13_solidarity_with_iran_ii.html.rb >$@.t
+../public/our_articles/2011-11-21_solidarity_petition.html: our_articles/2011-11-21_solidarity_petition.html.rb common.rb env.rb
+	ruby $(RUBYOPT) our_articles/2011-11-21_solidarity_petition.html.rb >$@.t
 	mv $@.t $@
 
 ../public/our_articles/2005_war_women.html: our_articles/2005_war_women.html.rb common.rb env.rb
 	ruby $(RUBYOPT) our_articles/2005_war_women.html.rb >$@.t
 	mv $@.t $@
 
-../public/our_articles/2011-11-21_solidarity_petition.html: our_articles/2011-11-21_solidarity_petition.html.rb common.rb env.rb
-	ruby $(RUBYOPT) our_articles/2011-11-21_solidarity_petition.html.rb >$@.t
-	mv $@.t $@
-
-../public/our_articles/2006-mothers-day.html: our_articles/2006-mothers-day.html.rb common.rb env.rb
-	ruby $(RUBYOPT) our_articles/2006-mothers-day.html.rb >$@.t
+../public/our_articles/2011-11-22_09_iran_and_threat_of_us_imperialism.html: our_articles/2011-11-22_09_iran_and_threat_of_us_imperialism.html.rb common.rb env.rb
+	ruby $(RUBYOPT) our_articles/2011-11-22_09_iran_and_threat_of_us_imperialism.html.rb >$@.t
 	mv $@.t $@
 
 ../public/our_articles/2009-10-04_simin_video.html: our_articles/2009-10-04_simin_video.html.rb common.rb env.rb
 	ruby $(RUBYOPT) our_articles/2009-10-04_simin_video.html.rb >$@.t
+	mv $@.t $@
+
+../public/our_articles/solidarity_africa.html: our_articles/solidarity_africa.html.rb common.rb env.rb
+	ruby $(RUBYOPT) our_articles/solidarity_africa.html.rb >$@.t
+	mv $@.t $@
+
+../public/our_articles/women_in_movements.html: our_articles/women_in_movements.html.rb common.rb env.rb
+	ruby $(RUBYOPT) our_articles/women_in_movements.html.rb >$@.t
+	mv $@.t $@
+
+../public/our_articles/2012-01-13_solidarity_with_iran_ii.html: our_articles/2012-01-13_solidarity_with_iran_ii.html.rb common.rb env.rb
+	ruby $(RUBYOPT) our_articles/2012-01-13_solidarity_with_iran_ii.html.rb >$@.t
+	mv $@.t $@
+
+../public/our_articles/2006-03-03_india.html: our_articles/2006-03-03_india.html.rb common.rb env.rb
+	ruby $(RUBYOPT) our_articles/2006-03-03_india.html.rb >$@.t
 	mv $@.t $@
 
 ../public/our_articles/2009_coverage.html: our_articles/2009_coverage.html.rb common.rb env.rb
@@ -102,71 +102,71 @@ group1_links: group1_list
 	ruby $(RUBYOPT) our_articles/2015-07-29_on_us_iran_agreement.html.rb >$@.t
 	mv $@.t $@
 
+../public/our_articles/2006-mothers-day.html: our_articles/2006-mothers-day.html.rb common.rb env.rb
+	ruby $(RUBYOPT) our_articles/2006-mothers-day.html.rb >$@.t
+	mv $@.t $@
+
 ../public/our_articles/2009-07-18_on_iranian-americans_protesting.html: our_articles/2009-07-18_on_iranian-americans_protesting.html.rb common.rb env.rb
 	ruby $(RUBYOPT) our_articles/2009-07-18_on_iranian-americans_protesting.html.rb >$@.t
 	mv $@.t $@
 
-../public/our_articles/women_in_movements.html: our_articles/women_in_movements.html.rb common.rb env.rb
-	ruby $(RUBYOPT) our_articles/women_in_movements.html.rb >$@.t
+../public/our_articles/2015-12-06_effect_of_sanctions.html: our_articles/2015-12-06_effect_of_sanctions.html.rb common.rb env.rb
+	ruby $(RUBYOPT) our_articles/2015-12-06_effect_of_sanctions.html.rb >$@.t
 	mv $@.t $@
 
-../public/our_articles/solidarity_africa.html: our_articles/solidarity_africa.html.rb common.rb env.rb
-	ruby $(RUBYOPT) our_articles/solidarity_africa.html.rb >$@.t
-	mv $@.t $@
-
-../public/others_articles/2009-07_gowans.html: others_articles/2009-07_gowans.html.rb common.rb env.rb
-	ruby $(RUBYOPT) others_articles/2009-07_gowans.html.rb >$@.t
-	mv $@.t $@
-
-../public/others_articles/2009-07-21_bakhtiar.html: others_articles/2009-07-21_bakhtiar.html.rb common.rb env.rb
-	ruby $(RUBYOPT) others_articles/2009-07-21_bakhtiar.html.rb >$@.t
+../public/our_articles/simin.html: our_articles/simin.html.rb common.rb env.rb
+	ruby $(RUBYOPT) our_articles/simin.html.rb >$@.t
 	mv $@.t $@
 
 ../public/others_articles/2011-11-15_fidel_genocidal-cynicism-part-two-and-end.html: others_articles/2011-11-15_fidel_genocidal-cynicism-part-two-and-end.html.rb common.rb env.rb
 	ruby $(RUBYOPT) others_articles/2011-11-15_fidel_genocidal-cynicism-part-two-and-end.html.rb >$@.t
 	mv $@.t $@
 
-../public/others_articles/2012-04-23_ohio_labor.html: others_articles/2012-04-23_ohio_labor.html.rb common.rb env.rb
-	ruby $(RUBYOPT) others_articles/2012-04-23_ohio_labor.html.rb >$@.t
-	mv $@.t $@
-
-../public/others_articles/2012-02-04_manifestations.html: others_articles/2012-02-04_manifestations.html.rb common.rb env.rb
-	ruby $(RUBYOPT) others_articles/2012-02-04_manifestations.html.rb >$@.t
+../public/others_articles/2011-11-15_si_solidarity_tour_cuba.html: others_articles/2011-11-15_si_solidarity_tour_cuba.html.rb common.rb env.rb
+	ruby $(RUBYOPT) others_articles/2011-11-15_si_solidarity_tour_cuba.html.rb >$@.t
 	mv $@.t $@
 
 ../public/others_articles/2011-11-17_si_nicaragua.html: others_articles/2011-11-17_si_nicaragua.html.rb common.rb env.rb
 	ruby $(RUBYOPT) others_articles/2011-11-17_si_nicaragua.html.rb >$@.t
 	mv $@.t $@
 
-../public/others_articles/2011-11-16_hola_solidarity_appeal.html: others_articles/2011-11-16_hola_solidarity_appeal.html.rb common.rb env.rb
-	ruby $(RUBYOPT) others_articles/2011-11-16_hola_solidarity_appeal.html.rb >$@.t
-	mv $@.t $@
-
-../public/others_articles/2011-11-15_si_solidarity_tour_cuba.html: others_articles/2011-11-15_si_solidarity_tour_cuba.html.rb common.rb env.rb
-	ruby $(RUBYOPT) others_articles/2011-11-15_si_solidarity_tour_cuba.html.rb >$@.t
-	mv $@.t $@
-
-../public/others_articles/2011-11-17_phil_ltr.html: others_articles/2011-11-17_phil_ltr.html.rb common.rb env.rb
-	ruby $(RUBYOPT) others_articles/2011-11-17_phil_ltr.html.rb >$@.t
-	mv $@.t $@
-
-../public/others_articles/2009-07-18_ardeshir_ufpj.html: others_articles/2009-07-18_ardeshir_ufpj.html.rb common.rb env.rb
-	ruby $(RUBYOPT) others_articles/2009-07-18_ardeshir_ufpj.html.rb >$@.t
+../public/others_articles/2012-04-23_ohio_labor.html: others_articles/2012-04-23_ohio_labor.html.rb common.rb env.rb
+	ruby $(RUBYOPT) others_articles/2012-04-23_ohio_labor.html.rb >$@.t
 	mv $@.t $@
 
 ../public/others_articles/2009-09-29_paul.html: others_articles/2009-09-29_paul.html.rb common.rb env.rb
 	ruby $(RUBYOPT) others_articles/2009-09-29_paul.html.rb >$@.t
 	mv $@.t $@
 
+../public/others_articles/2009-07_gowans.html: others_articles/2009-07_gowans.html.rb common.rb env.rb
+	ruby $(RUBYOPT) others_articles/2009-07_gowans.html.rb >$@.t
+	mv $@.t $@
+
+../public/others_articles/2011-11-17_phil_ltr.html: others_articles/2011-11-17_phil_ltr.html.rb common.rb env.rb
+	ruby $(RUBYOPT) others_articles/2011-11-17_phil_ltr.html.rb >$@.t
+	mv $@.t $@
+
+../public/others_articles/2011-11-16_hola_solidarity_appeal.html: others_articles/2011-11-16_hola_solidarity_appeal.html.rb common.rb env.rb
+	ruby $(RUBYOPT) others_articles/2011-11-16_hola_solidarity_appeal.html.rb >$@.t
+	mv $@.t $@
+
+../public/others_articles/2012-02-04_manifestations.html: others_articles/2012-02-04_manifestations.html.rb common.rb env.rb
+	ruby $(RUBYOPT) others_articles/2012-02-04_manifestations.html.rb >$@.t
+	mv $@.t $@
+
+../public/others_articles/2009-07-21_bakhtiar.html: others_articles/2009-07-21_bakhtiar.html.rb common.rb env.rb
+	ruby $(RUBYOPT) others_articles/2009-07-21_bakhtiar.html.rb >$@.t
+	mv $@.t $@
+
+../public/others_articles/2009-07-18_ardeshir_ufpj.html: others_articles/2009-07-18_ardeshir_ufpj.html.rb common.rb env.rb
+	ruby $(RUBYOPT) others_articles/2009-07-18_ardeshir_ufpj.html.rb >$@.t
+	mv $@.t $@
+
 Makefile: Makefile.rb common.rb images *articles* env.rb
 	ruby $(RUBYOPT) Makefile.rb >$@.t
 	mv $@.t $@
 
-../public/img/nowaroniranFeb4.jpg: images/nowaroniranFeb4.jpg
-	rm -f $@
-	ln $? $@
-
-../public/img/si_logo.jpg: images/si_logo.jpg
+../public/img/bahraini_girl.jpg: images/bahraini_girl.jpg
 	rm -f $@
 	ln $? $@
 
@@ -174,15 +174,11 @@ Makefile: Makefile.rb common.rb images *articles* env.rb
 	rm -f $@
 	ln $? $@
 
-../public/img/2009_simin_interview.jpg: images/2009_simin_interview.jpg
+../public/img/si_logo.jpg: images/si_logo.jpg
 	rm -f $@
 	ln $? $@
 
 ../public/img/happy_human.gif: images/happy_human.gif
-	rm -f $@
-	ln $? $@
-
-../public/img/bahraini_girl.jpg: images/bahraini_girl.jpg
 	rm -f $@
 	ln $? $@
 
@@ -194,15 +190,23 @@ Makefile: Makefile.rb common.rb images *articles* env.rb
 	rm -f $@
 	ln $? $@
 
+../public/img/nowaroniranFeb4.jpg: images/nowaroniranFeb4.jpg
+	rm -f $@
+	ln $? $@
+
+../public/img/2009_simin_interview.jpg: images/2009_simin_interview.jpg
+	rm -f $@
+	ln $? $@
+
 ../public/img/pareesa_2003.jpg: images/pareesa_2003.jpg
 	rm -f $@
 	ln $? $@
 
-../public/img/yankee_leave_mars.jpg: images/yankee_leave_mars.jpg
+../public/img/pareesa_cropped.jpg: images/pareesa_cropped.jpg
 	rm -f $@
 	ln $? $@
 
-../public/img/pareesa_cropped.jpg: images/pareesa_cropped.jpg
+../public/img/yankee_leave_mars.jpg: images/yankee_leave_mars.jpg
 	rm -f $@
 	ln $? $@
 
