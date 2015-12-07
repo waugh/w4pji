@@ -186,7 +186,7 @@ to take all the money they steal from Iran, to foreign
 countries. It simply became more expensive in terms if
 exchange and the extra bribes they had to pay in the
 international black market to transfer all their stolen
-wealth to outside Iran.
+wealth out of Iran.
 !
 
 p <<-'!'
