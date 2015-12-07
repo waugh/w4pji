@@ -6,7 +6,7 @@ p do
   text <<-'!'
 I have mentioned in other talks and writings, the
 Joint Comprehensive Plan of Action or "Iran nuclear deal"
-as people call it (simply the "Deal" herinafter)
+as people call it (simply the "Deal" hereinafter)
 only covers the nuclear-related sanctions on Iran.
 Iran has been under increasing sanctions and boycotts since
 its revolution.  The first sanctions were military
@@ -158,7 +158,7 @@ factory workers.)
 p <<-'!'
 Since Iran's market, like everywhere else, has been open
 to China, all manners of consumer goods at low prices,
-made in China, are available in Iran. So, the textile induxtry
+made in China, are available in Iran. So, the textile industry
 has not been revived in Iran (just as it also has not been revived
 in most countries in Africa).
 !
@@ -185,7 +185,7 @@ sanctions made it somewhat more difficult for the 1%
 to take all the money they steal from Iran, to foreign
 countries. It simply became more expensive in terms if
 exchange and the extra bribes they had to pay in the
-international black market to transfect all their stolen
+international black market to transfer all their stolen
 wealth to outside Iran.
 !
 
