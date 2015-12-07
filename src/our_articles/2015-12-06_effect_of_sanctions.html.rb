@@ -39,29 +39,15 @@ has not been lifted in the Deal either.
 !
 
 p <<-'!'
-Then in 2002, when Iran in the reconstruction after
-the 8-year war decided to restart its nuclear industry,
-it gave the US the best excuse, and for 12 years, the US kept
-piling on the sanctions. Even during the government of
-Khatami (1997-2005), when he unilaterally stopped uranium
-enrichment, the US not only refused to lift any sanctions but
-kept increasing them.  While the US claimed it was concerned
-about Iran's enrichment, it really was using the false
-issue to bring Iran under its sphere of control.
+In 2002, as a part of the reconstruction subsequent to the eight-year
+war, Iran decided to restart its nuclear industry. This provided the US
+with a pretext for a whole new set of sanctions and embargoes against Iran.
+!
 
-[Can't guess what you mean here:]
-
-So,
-just stopping the enrichment was not enough recuse Iran
-said it would not negotiate anything else with any other
-preconditions.
-
-[]
-
-The US wanted other advantages like the
-one we see in the new deal. For example, at the time,
-Iran was not accepting inspection of its military sites,
-and so on.
+p <<-'!'
+The US asserted that enrichment was a key problem, yet even after the
+Khatami government suspended enrichment for two years,
+the US not only continued sanctions but added to them.
 !
 
 p <<-'!'
@@ -94,16 +80,12 @@ the government. So, the US (with the help of the UN) imposed
 banking restrictions on Iran. This meant that because of
 lack of international banking access, Iran was not able to
 obtain letters of credit, which is a must in international
-trade, and the value of its currency dropped right away
-by 200%.
-
-[What does this mean? If the number of USD to buy one Rial was x prior to the
-drop, what is the formula for how much it was after? It could not have gone
-negative!]
-
+trade, and the exchange rate of its currency dropped right away
+to 1/3 of what it had been.
 This made imports more expensive, but since then
 I traveled to Iran many times and there was never any
-shortage of basic food or luxury.  In response to this
+shortage of basic food or luxury.  In response to
+the price increases,
 the government increased subsidies to the poor and bread
 subsidies (these have since been reduced or eliminated by the current
 government). The government also increased the minimum
@@ -114,7 +96,7 @@ aid to the poor). But the terrible inflation was to a
 large extent due to international banking sanctions.
 So, there was some effect but there were no shortages
 and since a large proportion of Iranians work in the government,
-the increase in government pay is very helpful.
+the increase in government pay was very helpful.
 !
 
 h2 "Benefits of the Sanctions" # This makes this phrase a header.
