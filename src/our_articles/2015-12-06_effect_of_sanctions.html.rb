@@ -24,17 +24,17 @@ just one year after revolution and under military boycott.
 One reason, in addition to the revolutionary determination
 and creativity, was that Iran is not  a poor country, due to
 its abundant oil.  In fact the Iran-Contra affair belongs
-to that period where the Colonel North and anti-Nicaragua
+to that period when Colonel North and the anti-Nicaragua
 forces in the US conspired to sell arms to Iran (in violation
 of a US embargo) so that they could use the revenue from
-the sale in their contra activities in Nicaragua (so much
+the sale in their Contra activities in Nicaragua (so much
 for lack of conspiracy in US international intrigue).
 !
 end
 
 p <<-'!'
 The US continuously increased sanctions against Iran based on
-various false claims. Iran was declared a state sponsor
+various false accusations. Iran was declared a state sponsor
 of terrorism because of its defense of the Palestinian
 and Lebanese resistance forces.
 This designation of Iran as a state sponsor of terrorism
@@ -56,15 +56,16 @@ the US not only continued sanctions but added to them.
 p <<-'!'
 When Ahmadinejad was elected in 2005, the
 government took a hard anti-imperialist position towards the
-US. Iran said that since for 2 years of enrichment  stoppage, the
+US. Iran said that since for two years of enrichment  stoppage, the
 US had increased its belligerence, Iran was going to reopen
-its enrichment program and expand it so it would become
-nuclear industry independent.  In addition Iran went on
+its enrichment program and expand it so
+its nuclear industry would become independent.
+In addition, Iran went on
 to develop strong relationships with all Latin American
 anti-imperialist forces such as Cuba, Venezuela, and Bolivia,
 and strengthened its relationships with Lebanon,
 Syria and Palestine.  In response to US efforts to isolate
-Iran economically, Ahmadinejad's government developed
+Iran economically, Ahmadinejad's government strengthened
 its ties with all non-European countries and with Russia. Iran
 was not economically isolated.  In fact, to my chagrin,
 you could find anything in Iran, including real Gucci bags
@@ -75,7 +76,7 @@ could not afford).  The people of lower economic classes
 do not buy western consumer goods anyway.  Because of the
 international market of global capitalism, big corporations
 have international ways of selling things anywhere. You
-could even buy Pepsi cola in Iran.  Lower economic classes
+could even buy Pepsi Cola in Iran.  Lower economic classes
 are affected by prices of basic goods. The biggest blow
 was after the victory of Ahmadinejad in 2009. Then the US was
 determined to increase the pressure and turn people against
@@ -117,7 +118,7 @@ most experimental ones being developed in the West)
 is produced in Iran generically and cheaply. The drug
 prices are highly controlled and subsidized. As a result,
 drugs are very cheap in Iran. The first time I went to buy
-something I was shocked because a tube of the medicine was
+something, I was shocked, because a tube of the medicine was
 less than 50 cents. So, many Iranians when traveling to
 Iran buy up to three months of all their medications and
 bring it here. We did the same for my mother, and I refilled
@@ -167,7 +168,7 @@ p <<-'!'
 Since the poor when buying foreign-made products, buy
 Chinese, they were not affected as much. After the banking
 sanctions, Iran and China did contracts in barter. Iranians
-complained because they said we gave then gas and they gave
+complained because they said we gave them gas and they gave
 us junk goods. Then I asked them why they bought Chinese,
 instead of Iranian, and they said because Chinese was
 cheaper. Same story here in the US.
@@ -175,7 +176,7 @@ cheaper. Same story here in the US.
 
 p <<-'!'
 Since Iran produces lots of fruits and vegetables, it
-exports those to the gulf countries that are essentially deserts
+exports those to the gulf countries, which are essentially deserts
 and import all produce.
 !
 
@@ -183,7 +184,7 @@ p <<-'!'
 Another benefit from my point of view was that the banking
 sanctions made it somewhat more difficult for the 1%
 to take all the money they steal from Iran, to foreign
-countries. It simply became more expensive in terms if
+countries. It simply became more expensive in terms of
 exchange and the extra bribes they had to pay in the
 international black market to transfer all their stolen
 wealth out of Iran.
