@@ -5,16 +5,19 @@ p do
   tag :span, "As", :class => "first_word"
   text <<-'!'
 I have mentioned in other talks and writings, the
-Deal only covers the nuclear related sanctions on Iran.
+Joint Comprehensive Plan of Action or "Iran nuclear deal"
+as people call it (simply the "Deal" herinafter)
+only covers the nuclear-related sanctions on Iran.
 Iran has been under increasing sanctions and boycotts since
-its revolution.  The first sanctions were military at the
-beginning of the revolution, while Iraq, with total military
+its revolution.  The first sanctions were military
+since the 1979 revolution. Then Iraq, with total military
 support by the West, attacked Iran. Since Iran's military
-arsenal from the time of the Shah were American, Iran could
+arsenal from the time of the Shah was American, Iran could
 not get even parts, let alone, new arsenal.  However, with
 the revolutionary spirit, the Iranians reverse engineered
 or invented new ways to provide the military arsenal for
 the war against Saddam's aggression with all the might of
+the
 US behind it including chemical weapons used against Iran's
 army. So, Iran was capable of defeating this aggression
 just one year after revolution and under military boycott.
